@@ -31,7 +31,7 @@ define([],function(){var obj={
     isTiled: false,
     autoResize: true,
     wrapAround180: true,
-    center: [-98, 40],
+    center: [9.8, 51],
     zoom: 3
   },
 
