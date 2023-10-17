@@ -116,7 +116,7 @@ G.evaluators.iso = {
      */
    
 // //Example 1
-//    G.evalProps(task,item,root,"src_category_cat","//gmd:MD_TopicCategoryCode");
+    G.evalProps(task,item,root,"src_category_cat","//gmd:MD_TopicCategoryCode");
 
 // //Example 2
 //    var json = task.suppliedJson;
