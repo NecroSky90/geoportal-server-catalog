@@ -82,7 +82,8 @@ define({
         missingSource: "Editor/Upload",
         createFilter: "Create Filter",
         hierarchicalCategory: "Hierarchical Category",
-        collections: "Collections"
+        collections: "Collections",
+        metadataScope: "Hierarchy Level"
       },
       componentSettings: {
         componentLabel: "Label",
